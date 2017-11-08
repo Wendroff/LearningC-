@@ -1,0 +1,23 @@
+﻿生成启动时间为 2017/6/14 14:11:36。
+     1>项目“H:\Work\LearningC++\Parallel\Para_Hello_world\Para_Hello_world\Para_Hello_world.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“x64\Debug\Para_Hello_world.lastbuildstate”。
+       InitializeBuildStatus:
+         正在对“x64\Debug\Para_Hello_world.unsuccessfulbuild”执行 Touch 任务。
+       MessageBuildingWithCompiler:
+         Building with Intel(R) C++ Compiler XE 15.0
+       ClCompile:
+         ***** ClCompile (x64 - Intel C++)
+         C:\Program Files (x86)\Intel\Composer XE 2015\bin\Intel64\icl.exe /c /Qvc11 /Qlocation,link,"E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\amd64" /I"C:\Program Files (x86)\Intel\impi_5.0.1\intel64\include" /Zi /nologo /W3 /Od /Qftz- /D __INTEL_COMPILER=1500 /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Qstd=c99 /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /TC HM.c
+         HM.c
+       Link:
+         C:\Program Files (x86)\Intel\Composer XE 2015\bin\Intel64\xilink.exe /OUT:"H:\Work\LearningC++\Parallel\Para_Hello_world\x64\Debug\Para_Hello_world.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Intel\impi_5.0.1\intel64\lib" impi.lib /MANIFEST /ManifestFile:"x64\Debug\Para_Hello_world.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"H:\Work\LearningC++\Parallel\Para_Hello_world\x64\Debug\Para_Hello_world.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\Work\LearningC++\Parallel\Para_Hello_world\x64\Debug\Para_Hello_world.lib" /MACHINE:X64 x64\Debug\HM.obj
+         xilink: executing 'link'
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\Para_Hello_world.unsuccessfulbuild”。
+         正在对“x64\Debug\Para_Hello_world.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“H:\Work\LearningC++\Parallel\Para_Hello_world\Para_Hello_world\Para_Hello_world.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.78

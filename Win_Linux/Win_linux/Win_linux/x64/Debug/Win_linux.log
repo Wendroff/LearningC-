@@ -1,0 +1,20 @@
+﻿生成启动时间为 2017/6/29 8:58:52。
+     1>项目“H:\Work\LearningC++\Win_Linux\Win_linux\Win_linux\Win_linux.vcxproj”在节点 2 上(Build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“H:\Work\LearningC++\Win_Linux\Win_linux\x64\Debug\”。
+       InitializeBuildStatus:
+         正在创建“x64\Debug\Win_linux.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"H:\Work\LearningC++\Win_Linux\Win_linux\x64\Debug\Win_linux.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\Work\LearningC++\Win_Linux\Win_linux\x64\Debug\Win_linux.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\Work\LearningC++\Win_Linux\Win_linux\x64\Debug\Win_linux.lib" /MACHINE:X64 x64\Debug\main.obj
+         Win_linux.vcxproj -> H:\Work\LearningC++\Win_Linux\Win_linux\x64\Debug\Win_linux.exe
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\Win_linux.unsuccessfulbuild”。
+         正在对“x64\Debug\Win_linux.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“H:\Work\LearningC++\Win_Linux\Win_linux\Win_linux\Win_linux.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.74

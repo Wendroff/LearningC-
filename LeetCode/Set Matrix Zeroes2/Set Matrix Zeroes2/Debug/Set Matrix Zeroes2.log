@@ -1,0 +1,17 @@
+﻿生成启动时间为 2017/8/16 20:01:12。
+     1>项目“H:\Work\LearningC++\LeetCode\Set Matrix Zeroes2\Set Matrix Zeroes2\Set Matrix Zeroes2.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\Set Matrix Zeroes2.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\Work\LearningC++\LeetCode\Set Matrix Zeroes2\Debug\Set Matrix Zeroes2.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\Work\LearningC++\LeetCode\Set Matrix Zeroes2\Debug\Set Matrix Zeroes2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\Work\LearningC++\LeetCode\Set Matrix Zeroes2\Debug\Set Matrix Zeroes2.lib" /MACHINE:X86 Debug\main.obj
+         Set Matrix Zeroes2.vcxproj -> H:\Work\LearningC++\LeetCode\Set Matrix Zeroes2\Debug\Set Matrix Zeroes2.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Set Matrix Zeroes2.unsuccessfulbuild”。
+         正在对“Debug\Set Matrix Zeroes2.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“H:\Work\LearningC++\LeetCode\Set Matrix Zeroes2\Set Matrix Zeroes2\Set Matrix Zeroes2.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.41

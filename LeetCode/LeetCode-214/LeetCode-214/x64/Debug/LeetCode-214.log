@@ -1,0 +1,19 @@
+﻿生成启动时间为 2017/10/26 14:11:01。
+     1>项目“H:\Work\LearningC++\LeetCode\LeetCode-214\LeetCode-214\LeetCode-214.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“x64\Debug\LeetCode-214.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc110.pdb" /Gd /TP /errorReport:prompt solution.cpp
+         solution.cpp
+       Link:
+         E:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"H:\Work\LearningC++\LeetCode\LeetCode-214\x64\Debug\LeetCode-214.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"H:\Work\LearningC++\LeetCode\LeetCode-214\x64\Debug\LeetCode-214.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\Work\LearningC++\LeetCode\LeetCode-214\x64\Debug\LeetCode-214.lib" /MACHINE:X64 x64\Debug\main.obj
+         x64\Debug\solution.obj
+         LeetCode-214.vcxproj -> H:\Work\LearningC++\LeetCode\LeetCode-214\x64\Debug\LeetCode-214.exe
+       FinalizeBuildStatus:
+         正在删除文件“x64\Debug\LeetCode-214.unsuccessfulbuild”。
+         正在对“x64\Debug\LeetCode-214.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“H:\Work\LearningC++\LeetCode\LeetCode-214\LeetCode-214\LeetCode-214.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.11
